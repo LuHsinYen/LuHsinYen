@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuHsinYen
 - 👀 I’m interested in watching movies, trabeling......
-- 🌱 I’m currently learning python and R
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on liguistic and python.
 - 📫 My E-maiml address: 
 
